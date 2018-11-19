@@ -1,0 +1,6 @@
+1. please note that array questions and String questions can often be interchangeable
+
+2. StringBuilder: simply creates a resizeable array of all the Strings, copying them
+   back to a String only when necessary
+
+3.

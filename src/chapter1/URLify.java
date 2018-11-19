@@ -3,7 +3,7 @@ package chapter1;
 
 /**
  * replace all spaces in a string with "20%", assume the string has enough spaces to hold additional characters
- *
+ * 核心思想: 从后往前操作
  * @author andy
  * @date Nov 8th
  */

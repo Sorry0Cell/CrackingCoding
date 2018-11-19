@@ -72,7 +72,6 @@ public class IsUnique {
     }
 
 
-
     public static void main(String[] args){
         IsUnique testStr = new IsUnique("AndyWonder");
         /**  方法1 */
