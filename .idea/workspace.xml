@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="91faec8d-01ad-4800-93e8-614002ce85ce" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CrackingCoding/chapter1/IsUnique.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CrackingCoding/chapter1/IsUnique.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CrackingCoding/chapter1/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CrackingCoding/chapter1/StringTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter1/IsUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/IsUnique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter1/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/StringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter1/URLify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter1/URLify.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,21 +23,21 @@
     <session id="113110960">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="README" value="3" />
+          <entry key="README" value="6" />
           <entry key="class" value="1" />
           <entry key="iml" value="2" />
-          <entry key="java" value="49" />
+          <entry key="java" value="66" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
@@ -50,26 +45,36 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="49" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="JAVA" value="66" />
+          <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="README" value="236" />
-          <entry key="java" value="12144" />
+          <entry key="README" value="473" />
+          <entry key="java" value="18029" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12144" />
-          <entry key="PLAIN_TEXT" value="236" />
+          <entry key="JAVA" value="18029" />
+          <entry key="PLAIN_TEXT" value="473" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter1/StringCompress.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -92,6 +97,7 @@
       <find>Syste</find>
       <find>arraycopy</find>
       <find>ArrayList</find>
+      <find>recursiveNthToLast</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -118,10 +124,17 @@
         <option value="$PROJECT_DIR$/src/chapter1/IsUnique.java" />
         <option value="$PROJECT_DIR$/src/chapter1/StringTest.java" />
         <option value="$PROJECT_DIR$/src/chapter1/URLify.java" />
-        <option value="$PROJECT_DIR$/src/chapter1/StringCompress.java" />
         <option value="$PROJECT_DIR$/src/chapter1/README" />
         <option value="$PROJECT_DIR$/src/chapter1/RotateMatrix.java" />
         <option value="$PROJECT_DIR$/src/chapter1/ZeroMatrix.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/Node.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/LinkedListUtils.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/RemoveDups.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/README" />
+        <option value="$PROJECT_DIR$/src/chapter2/ReturnKth.java" />
+        <option value="$PROJECT_DIR$/src/chapter1/StringCompress.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/chapter2/DelMiddle.java" />
       </list>
     </option>
   </component>
@@ -163,6 +176,19 @@
             </path>
             <path>
               <item name="CrackingCoding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CrackingCoding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CrackingCoding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CrackingCoding" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="ReturnKth.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="CrackingCoding" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -174,9 +200,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542599066333" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542639745210" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -190,14 +216,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringCompress">
-    <configuration name="CheckPerm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.CheckPerm" />
+  <component name="RunManager" selected="Application.DelMiddle">
+    <configuration name="DelMiddle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.DelMiddle" />
       <module name="CrackingCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1.*" />
+          <option name="PATTERN" value="chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,13 +231,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.IsUnique" />
+    <configuration name="RemoveDups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.RemoveDups" />
       <module name="CrackingCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1.*" />
+          <option name="PATTERN" value="chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,13 +245,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromePerm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1.PalindromePerm" />
+    <configuration name="ReturnKth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.ReturnKth" />
       <module name="CrackingCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1.*" />
+          <option name="PATTERN" value="chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,19 +308,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PalindromePerm" />
-      <item itemvalue="Application.CheckPerm" />
-      <item itemvalue="Application.IsUnique" />
       <item itemvalue="Application.URLify" />
       <item itemvalue="Application.StringCompress" />
+      <item itemvalue="Application.RemoveDups" />
+      <item itemvalue="Application.ReturnKth" />
+      <item itemvalue="Application.DelMiddle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DelMiddle" />
+        <item itemvalue="Application.ReturnKth" />
+        <item itemvalue="Application.RemoveDups" />
         <item itemvalue="Application.StringCompress" />
         <item itemvalue="Application.URLify" />
-        <item itemvalue="Application.PalindromePerm" />
-        <item itemvalue="Application.IsUnique" />
-        <item itemvalue="Application.CheckPerm" />
       </list>
     </recent_temporary>
   </component>
@@ -313,8 +339,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2108145" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2162902" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -324,8 +351,8 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22156398" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.30295858" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23222749" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36848342" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -333,7 +360,7 @@
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.29704142" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.29620853" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49740034" weight="0.24982889" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -445,13 +472,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-359">
-          <caret line="161" column="20" selection-start-line="161" selection-start-column="15" selection-end-line="161" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter1/CheckPermutation.java" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor" />
@@ -504,20 +524,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/RoteteMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/StringCompress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1/RoteteMatrix.java" />
     <entry file="file://$PROJECT_DIR$/src/chapter1/OneAway.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1550">
@@ -539,13 +546,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter1/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter1/RotateMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -557,10 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -578,6 +574,76 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/LinkedListUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/DelMiddle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="74" column="35" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/RemoveDups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/ReturnKth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter1/StringCompress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
