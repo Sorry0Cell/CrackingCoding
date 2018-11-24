@@ -1,5 +1,7 @@
 package chapter2;
 
+import jdk.nashorn.internal.runtime.regexp.joni.exception.ValueException;
+
 /***
  * LinkedList implementation
  *
@@ -23,9 +25,33 @@ public class LinkedList<T> {
         head = node;
     }
 
+    public LinkedList(T[] dataList){
+        if(dataList.length == 0){
+            throw new ValueException("The array is empty ... ");
+        }
+        Node tempNode;
+        Node tailNode = null;
+        for(int i=0; i<dataList.length; i++){
+            tempNode = new Node(dataList[i]);
+            if(i==0){
+                head = tempNode;
+            } else {
+                tailNode.next = tempNode;
+            }
+            tailNode = tempNode;
+        }
+    }
+
     public boolean setHead(T data){
         head.data = data;
         return true;
+    }
+
+    public int length(){
+        if(head == null){
+            return 0;
+        }
+        return head.length();
     }
 
     public Node append(int data){

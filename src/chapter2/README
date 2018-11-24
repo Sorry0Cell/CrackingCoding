@@ -3,4 +3,12 @@
 2. involved with LinkedList questions, there are 2 most common useful techniques,
    the runner technique and recursive technique
 
-3.
+3. pay attention to how organize the recursive structure in linkedList question;
+   for example, in ReturnKth problem, we solve current problem only if we solve the recursive
+   problem (return the k-1 before return kth), so the structure is: recursive boundary -->
+   recursive call --> logic process;
+   but in the SumList problem(reverse), when applied recursive method, we solve current problem
+   first, and then solve the recursive problem (get the ith Node and then get the i+1th Node, set
+   the i+1th Node as the next of ith Node)
+
+4.

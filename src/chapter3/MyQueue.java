@@ -5,16 +5,19 @@ import java.util.NoSuchElementException;
 /**
  *
  * @param <T>
- * Queue, 常用于图、树的广度优先遍历
- * 注意: 入队列和出队列是在不同的两个方向, 一个在头, 一个在尾
+ * Queue, commonly used in tree, graph bread-first-search
+ * Attention: push and pop are operated in different end
  */
+
 public class MyQueue<T> {
 
+    // Nov 24th
+    // 静态内部类（嵌套类），不需要外部类引用，即可创建内部类对象，
     private static class QueueNode<T>{
         private T data;
         private QueueNode<T> next;
 
-        // 范性, 注意, 类名, 除了在构造方法后不加<T>, 在其他地方都要加
+        // 范型, 注意, 类名, 除了在构造方法后不加<T>, 在其他地方都要加
         public QueueNode(T data){
             this.data = data;
         }

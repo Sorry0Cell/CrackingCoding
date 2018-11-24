@@ -10,7 +10,7 @@ package chapter2;
  */
 
 
-class Wrapper{
+class WrapperInt{
     int index = 0;
 }
 
@@ -97,7 +97,7 @@ public class ReturnKth {
 
     // we need to update both the node and counter in a way thar all levels
     // of the recursive stack will see
-    public Node recursiveNthToLast(Node node, int k, Wrapper wrapper){
+    public Node recursiveNthToLast(Node node, int k, WrapperInt wrapper){
         if(node == null){
             return null;
         }

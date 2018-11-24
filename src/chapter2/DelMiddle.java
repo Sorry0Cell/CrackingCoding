@@ -18,29 +18,20 @@ public class DelMiddle {
 
         System.out.println("data before insert ...");
         Node node = linkedList.head;
-        while (node!=null){
-            System.out.print(String.format("%d ", node.data));
-            node = node.next;
-        }
+        LinkedListUtils.printLinkedList(node, "data before insert ...");
 
         // 插入一个
         Node tempNode = new Node(777);
         linkedList.insert(tempNode, 3);
-        System.out.println("\ndata after insert ...");
         node = linkedList.head;
-        while (node!=null){
-            System.out.print(String.format("%d ", node.data));
-            node = node.next;
-        }
+        LinkedListUtils.printLinkedList(node, "\ndata after insert ...");
+
 
         // 删除这个node
         tempNode.data = tempNode.next.data;
         tempNode.next = tempNode.next.next;
-        System.out.println("\ndata after delete ...");
         node = linkedList.head;
-        while (node!=null){
-            System.out.print(String.format("%d ", node.data));
-            node = node.next;
-        }
+        LinkedListUtils.printLinkedList(node, "\ndata after delete ...");
+
     }
 }

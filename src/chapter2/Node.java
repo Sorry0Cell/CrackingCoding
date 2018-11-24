@@ -17,4 +17,20 @@ public class Node<T> {
     Node(T data){
         this.data = data;
     }
+
+    public boolean setNext(Node nextNode){
+        this.next = nextNode;
+        return true;
+    }
+
+    public int length(){
+        int len = 0;
+        Node node = this;
+        while (node!=null){
+            node = node.next;
+            len++;
+        }
+        return len;
+    }
+
 }
