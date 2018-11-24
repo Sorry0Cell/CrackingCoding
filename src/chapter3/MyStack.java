@@ -15,20 +15,22 @@ public class MyStack<T> {
         private T data;
         private StackNode<T> next;
 
-        // 范型, 注意, 类名, 除了在构造方法后不加<T>, 在其他地方都要加
+        // 泛型, 注意, 类名, 除了在构造方法后不加<T>, 在其他地方都要加
         public StackNode(T data){
             this.data = data;
         }
     }
 
     private StackNode<T> top;
+    private int size;
 
-    public T pop(){
+    public T pop() throws EmptyStackException{
         if(top == null){
             throw new EmptyStackException();
         }
         T item = top.data;
         top = top.next;
+        size--;
         return item;
     }
 
@@ -36,6 +38,7 @@ public class MyStack<T> {
         StackNode<T> t = new StackNode<T>(item);
         t.next = top;
         top = t;
+        size++;
     }
 
     public T peek(){
@@ -48,4 +51,6 @@ public class MyStack<T> {
     public boolean isEmpty(){
         return top == null;
     }
+
+    public int getSize(){return size;}
 }

@@ -25,6 +25,7 @@ public class MyQueue<T> {
 
     private QueueNode<T> first;
     private QueueNode<T> last;
+    private int size;
 
     public void add(T item){
         QueueNode<T> t = new QueueNode<T>(item);
@@ -35,6 +36,7 @@ public class MyQueue<T> {
         if(first == null){
             first = last;
         }
+        size++;
     }
 
     public T remove(){
@@ -46,6 +48,7 @@ public class MyQueue<T> {
         if(first == null){
             last = null;
         }
+        size--;
         return data;
     }
 
@@ -59,4 +62,6 @@ public class MyQueue<T> {
     public boolean isEmpty(){
         return first == null;
     }
+
+    public int getSize(){return size;}
 }

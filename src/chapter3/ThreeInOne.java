@@ -1,7 +1,6 @@
 package chapter3;
 
 import java.util.EmptyStackException;
-import java.util.Stack;
 
 /**
  * Describe how you could use a single array to implement three stacks.
@@ -30,6 +29,12 @@ public class ThreeInOne {
         sizes = new int[numberOfStacks];
     }
 
+    /**
+     *
+     * @param stackNum
+     * @param item
+     * @throws FullStackException
+     */
     public void push(int stackNum, int item) throws FullStackException{
         if(isFull(stackNum)){
             throw new FullStackException();
@@ -41,11 +46,10 @@ public class ThreeInOne {
     /**
      *
      * @param stackNum
-     * @return pop 的值
-     * 首先, 要判断 stackNum 对应的栈是否为空
-     * 其次, 找到 stackNum 对应的栈 top index
-     * 最后, 返回 values中 top index 处对应的item值,
-     *      并把top index 处的值赋为0, 同时 stackNum 对应的栈 size 要减一
+     * @return
+     * first, whether the No.stackNum stack is empty
+     * second, find the top_index of the No.stackNum stack
+     * last, return values[top_index], and values[top_index]=0, sizes[stackNum]--
      */
     public int pop(int stackNum){
         if(isEmpty(stackNum)){

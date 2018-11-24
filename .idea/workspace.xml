@@ -3,21 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="91faec8d-01ad-4800-93e8-614002ce85ce" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CrackingCoding/chapter2/DelMiddle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CrackingCoding/chapter2/DelMiddle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CrackingCoding/chapter2/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CrackingCoding/chapter2/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CrackingCoding/chapter2/LinkedListUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CrackingCoding/chapter2/LinkedListUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CrackingCoding/chapter2/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CrackingCoding/chapter2/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CrackingCoding/chapter2/README" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CrackingCoding/chapter2/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CrackingCoding/chapter2/ReturnKth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CrackingCoding/chapter2/ReturnKth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CrackingCoding/chapter2/Wrapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2/DelMiddle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/DelMiddle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2/LinkedListUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/LinkedListUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2/README" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2/ReturnKth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/ReturnKth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingCoding/chapter3/MyQueue$QueueNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CrackingCoding/chapter3/MyQueue$QueueNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingCoding/chapter3/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CrackingCoding/chapter3/MyQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingCoding/chapter3/MyStack$StackNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CrackingCoding/chapter3/MyStack$StackNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingCoding/chapter3/MyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CrackingCoding/chapter3/MyStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingCoding/chapter3/StackMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CrackingCoding/chapter3/StackMin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingCoding/chapter3/ThreeInOne$FullStackException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CrackingCoding/chapter3/ThreeInOne$FullStackException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackingCoding/chapter3/ThreeInOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CrackingCoding/chapter3/ThreeInOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/DisorderArray.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapter3/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/MyQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapter3/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/StackMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/StackMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/ThreeInOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/ThreeInOne.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +52,7 @@
           <entry key="README" value="8" />
           <entry key="class" value="1" />
           <entry key="iml" value="2" />
-          <entry key="java" value="87" />
+          <entry key="java" value="94" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
@@ -63,31 +60,32 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="87" />
+          <entry key="JAVA" value="94" />
           <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="README" value="1187" />
-          <entry key="java" value="30938" />
+          <entry key="dummy" value="2" />
+          <entry key="java" value="34360" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="30938" />
-          <entry key="PLAIN_TEXT" value="1187" />
+          <entry key="JAVA" value="34360" />
+          <entry key="PLAIN_TEXT" value="1189" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter3/MyStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="425">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -95,17 +93,58 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter3/MyQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            <state relative-caret-position="369">
+              <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter3/ThreeInOne.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter3/StackMin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-331">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="219">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter3/SetOfStacks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="78" column="27" lean-forward="true" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter3/QueueWithStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="71" column="43" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
+                <element signature="e#972#973#0" expanded="true" />
+                <element signature="e#1022#1023#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter3/StackWithQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+              <folding>
+                <element signature="e#1556#1557#0" expanded="true" />
+                <element signature="e#1615#1616#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,6 +173,8 @@
       <find>arraycopy</find>
       <find>ArrayList</find>
       <find>recursiveNthToLast</find>
+      <find>FullStackException</find>
+      <find>stackA</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -148,8 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter3/ThreeInOne.java" />
-        <option value="$PROJECT_DIR$/src/chapter3/StackMin.java" />
         <option value="$PROJECT_DIR$/src/chapter3/DisorderArray.java" />
         <option value="$PROJECT_DIR$/src/chapter1/CheckPermutation.java" />
         <option value="$PROJECT_DIR$/src/chapter1/CheckPerm.java" />
@@ -174,8 +213,13 @@
         <option value="$PROJECT_DIR$/src/chapter2/LinkedListUtils.java" />
         <option value="$PROJECT_DIR$/src/chapter2/Intersection.java" />
         <option value="$PROJECT_DIR$/src/chapter2/LoopDetection.java" />
+        <option value="$PROJECT_DIR$/src/chapter3/ThreeInOne.java" />
+        <option value="$PROJECT_DIR$/src/chapter3/StackMin.java" />
         <option value="$PROJECT_DIR$/src/chapter3/MyStack.java" />
+        <option value="$PROJECT_DIR$/src/chapter3/SetOfStacks.java" />
         <option value="$PROJECT_DIR$/src/chapter3/MyQueue.java" />
+        <option value="$PROJECT_DIR$/src/chapter3/QueueWithStack.java" />
+        <option value="$PROJECT_DIR$/src/chapter3/StackWithQueue.java" />
       </list>
     </option>
   </component>
@@ -185,7 +229,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="57" />
     <option name="y" value="36" />
     <option name="width" value="2073" />
@@ -224,7 +268,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542942023959" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543045756532" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -243,14 +287,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LoopDetection">
-    <configuration name="Intersection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.Intersection" />
+  <component name="RunManager" selected="Application.DisorderArray">
+    <configuration name="DisorderArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.DisorderArray" />
       <module name="CrackingCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter2.*" />
+          <option name="PATTERN" value="chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,13 +302,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopDetection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.LoopDetection" />
+    <configuration name="QueueWithStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.QueueWithStack" />
       <module name="CrackingCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter2.*" />
+          <option name="PATTERN" value="chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,13 +316,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.Palindrome" />
+    <configuration name="SetOfStacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.SetOfStacks" />
       <module name="CrackingCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter2.*" />
+          <option name="PATTERN" value="chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,13 +330,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnKth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.ReturnKth" />
+    <configuration name="StackMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.StackMin" />
       <module name="CrackingCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter2.*" />
+          <option name="PATTERN" value="chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,13 +344,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.SumList" />
+    <configuration name="StackWithQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.StackWithQueue" />
       <module name="CrackingCoding" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter2.*" />
+          <option name="PATTERN" value="chapter3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,19 +379,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReturnKth" />
-      <item itemvalue="Application.SumList" />
-      <item itemvalue="Application.Palindrome" />
-      <item itemvalue="Application.Intersection" />
-      <item itemvalue="Application.LoopDetection" />
+      <item itemvalue="Application.StackMin" />
+      <item itemvalue="Application.SetOfStacks" />
+      <item itemvalue="Application.QueueWithStack" />
+      <item itemvalue="Application.StackWithQueue" />
+      <item itemvalue="Application.DisorderArray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LoopDetection" />
-        <item itemvalue="Application.Intersection" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.SumList" />
-        <item itemvalue="Application.ReturnKth" />
+        <item itemvalue="Application.DisorderArray" />
+        <item itemvalue="Application.StackWithQueue" />
+        <item itemvalue="Application.QueueWithStack" />
+        <item itemvalue="Application.SetOfStacks" />
+        <item itemvalue="Application.StackMin" />
       </list>
     </recent_temporary>
   </component>
@@ -377,9 +421,9 @@
       <window_info id="DB Browser" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37322274" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38744077" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32938388" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17535545" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40521327" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -472,6 +516,54 @@
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter3/StackMin.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter3/SetOfStacks.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter3/QueueWithStack.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter3/QueueWithStack.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter3/QueueWithStack.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter3/StackWithQueue.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter3/StackWithQueue.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter3/StackWithQueue.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -480,20 +572,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter3/StackMin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter3/DisorderArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Character.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-308">
@@ -717,22 +795,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter3/ThreeInOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-331">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="575">
+          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter3/MyQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter3/SetOfStacks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state relative-caret-position="469">
+          <caret line="78" column="27" lean-forward="true" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3/StackMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter3/MyStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3/QueueWithStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="71" column="43" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#972#973#0" expanded="true" />
+            <element signature="e#1022#1023#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3/MyQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3/DisorderArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter3/StackWithQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="e#1556#1557#0" expanded="true" />
+            <element signature="e#1615#1616#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
